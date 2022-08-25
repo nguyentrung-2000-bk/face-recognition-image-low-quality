@@ -1,7 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f260757-11f3-4f42-a193-7ae880b3e07f" name="Changes" comment="" />
+    <list default="true" id="9f260757-11f3-4f42-a193-7ae880b3e07f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/anhtest.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/arial.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/adaface_demo5.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/main_figure.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/convert.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo_face_recognition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/evaluate_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_alignment/Test2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_alignment/align.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_alignment/mtcnn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_alignment/mtcnn_pytorch/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_alignment/mtcnn_pytorch/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_alignment/mtcnn_pytorch/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_alignment/mtcnn_pytorch/Test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_alignment/mtcnn_pytorch/anhvi.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_alignment/mtcnn_pytorch/caffe_models/det1.caffemodel" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_alignment/mtcnn_pytorch/caffe_models/det1.prototxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_alignment/mtcnn_pytorch/caffe_models/det2.caffemodel" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_alignment/mtcnn_pytorch/caffe_models/det2.prototxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_alignment/mtcnn_pytorch/caffe_models/det3.caffemodel" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_alignment/mtcnn_pytorch/caffe_models/det3.prototxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_alignment/mtcnn_pytorch/caffe_models/det4.caffemodel" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_alignment/mtcnn_pytorch/caffe_models/det4.prototxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_alignment/mtcnn_pytorch/extract_weights_from_caffe_models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_alignment/mtcnn_pytorch/get_aligned_face_from_mtcnn.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_alignment/mtcnn_pytorch/images/example.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_alignment/mtcnn_pytorch/images/face0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_alignment/mtcnn_pytorch/images/jf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_alignment/mtcnn_pytorch/images/office1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_alignment/mtcnn_pytorch/images/office2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_alignment/mtcnn_pytorch/images/office3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_alignment/mtcnn_pytorch/images/office4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_alignment/mtcnn_pytorch/images/office5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_alignment/mtcnn_pytorch/images/teamCV.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_alignment/mtcnn_pytorch/net.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_alignment/mtcnn_pytorch/photo6053267804393681818.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_alignment/mtcnn_pytorch/photo_2022-06-13_11-08-25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_alignment/mtcnn_pytorch/refine_faces.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_alignment/mtcnn_pytorch/src/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_alignment/mtcnn_pytorch/src/align_trans.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_alignment/mtcnn_pytorch/src/box_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_alignment/mtcnn_pytorch/src/detector.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_alignment/mtcnn_pytorch/src/first_stage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_alignment/mtcnn_pytorch/src/get_nets.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_alignment/mtcnn_pytorch/src/matlab_cp2tform.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_alignment/mtcnn_pytorch/src/visualization_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_alignment/mtcnn_pytorch/src/weights/onet.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_alignment/mtcnn_pytorch/src/weights/pnet.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_alignment/mtcnn_pytorch/src/weights/rnet.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_alignment/mtcnn_pytorch/teamCV.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_alignment/mtcnn_pytorch/test_on_images.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_alignment/mtcnn_pytorch/try_mtcnn_step_by_step.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_alignment/test_images/adu_001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/head.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inference.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ms1mv2_train_subset_index.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/net.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/onnx_helper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repvgg.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/se_block.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train_val.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_hq/eval_5valsets.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_lq/PFE/ijbs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_lq/PFE/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_lq/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_lq/data_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_lq/eval_ijbs.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_lq/evaluate_helper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_lq/tinyface_helper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_lq/validate_IJB_S.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_lq/validate_tinyface.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_mixed/REAME.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_mixed/eval_ijb.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_mixed/insightface_ijb_helper/dataloader.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_mixed/insightface_ijb_helper/eval_helper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_mixed/insightface_ijb_helper/eval_helper_all_proto.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_mixed/insightface_ijb_helper/eval_helper_identification.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_mixed/insightface_ijb_helper/infer_helper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_mixed/insightface_ijb_helper/recognition/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_mixed/insightface_ijb_helper/recognition/embedding.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_mixed/insightface_ijb_helper/recognition/embedding_pytorch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_mixed/insightface_ijb_helper/recognition/fp16_grad.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_mixed/validate_IJB_BC.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +114,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Object_Detection" />
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -56,16 +149,5 @@
       <updated>1661421322453</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>33</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
